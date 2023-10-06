@@ -1,0 +1,3 @@
+[submodule "BMS_ShareComponentLibrary"]
+	path = BMS_ShareComponentLibrary
+	url = https://github.com/patrickhui2013047/BMS_ShareComponentLibrary.git

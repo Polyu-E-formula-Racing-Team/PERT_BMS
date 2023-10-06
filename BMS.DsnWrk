@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=BMS_ShareComponentLibrary\BMS_ShareComponentLibrary.LibPkg
+[Project2]
+ProjectPath=..\..\PERT\07E\Test\Test.PrjPcb
+[Project3]
+ProjectPath=24-12V_3A_TPS62933\24-12V_3A_TPS62933.PrjPcb

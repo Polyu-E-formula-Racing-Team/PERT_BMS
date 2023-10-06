@@ -1,3 +1,6 @@
 [submodule "BMS_ShareComponentLibrary"]
 	path = BMS_ShareComponentLibrary
 	url = https://github.com/patrickhui2013047/BMS_ShareComponentLibrary.git
+[submodule "PERT_PCB_Template"]
+	path = PERT_PCB_Template
+	url = https://github.com/Polyu-E-formula-Racing-Team/PERT_PCB_Template.git

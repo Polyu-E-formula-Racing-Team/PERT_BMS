@@ -64,15 +64,19 @@ PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration2_Name1=ColumnNameFormat
 Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
-Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1470|FormHeight=813|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration2_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1470|FormHeight=813|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=HKD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=True|BomSetName=
 Configuration2_Name3=GroupOrder
 Configuration2_Item3=Comment=True|Footprint=True
 Configuration2_Name4=SortOrder
 Configuration2_Item4=Designator=Up
 Configuration2_Name5=VisibleOrder
-Configuration2_Item5=Designator=120|Description=120|Comment=120|Footprint=120|LibRef=120|Quantity=120|Datasheet Link=100|Manufacturer_Name=100|Manufacturer_Part_Number=100
-Configuration2_Name6=VisibleOrder_Flat
-Configuration2_Item6=Designator=120|Description=120|Comment=120|Footprint=120|LibRef=120|Quantity=120|Datasheet Link=100|Manufacturer_Name=100|Manufacturer_Part_Number=100
+Configuration2_Item5=Line #=54|Comment=120|Description=120|Designator=120|Quantity=120|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration2_Name6=VisibleOrder_Base
+Configuration2_Item6=Line #=54|Comment=120|Description=120|Designator=120|Quantity=120|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration2_Name7=VisibleOrder_Consolidated
+Configuration2_Item7=Line #=54|Comment=100|Description=100|Designator=80|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration2_Name8=VisibleOrder_Flat
+Configuration2_Item8=Designator=120|Description=120|Comment=120|Footprint=120|LibRef=120|Quantity=120|Datasheet Link=100|Manufacturer_Name=100|Manufacturer_Part_Number=100
 OutputType3=Schematic Print
 OutputName3=Schematic Prints
 OutputCategory3=Documentation

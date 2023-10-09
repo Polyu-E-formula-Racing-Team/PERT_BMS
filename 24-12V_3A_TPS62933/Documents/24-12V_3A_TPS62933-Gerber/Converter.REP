@@ -2,48 +2,74 @@
 FileName = Converter.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Converter.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D32
-    D33
-    D34
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Converter.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-    D35
-*************************************************************
-
-*************************************************************
 Generating : Bottom Courtyard
       File : Converter.GM21
 
     Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : Converter.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Converter.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Converter.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Converter.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Converter.GM2
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Converter.GM1
+
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
@@ -61,39 +87,6 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Converter.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D38
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : Converter.GM2
-
-    Adding Layer      : Bottom Assembly
-
-
-Used DCodes :
-    D37
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 20
-      File : Converter.GM20
-
-    Adding Layer      : Mechanical 20
-
-
-Used DCodes :
-    D37
 *************************************************************
 
 *************************************************************
@@ -119,27 +112,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : Converter.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D34
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : Converter.GBS
 
@@ -152,65 +124,6 @@ Generating : Bottom Solder
 
 Used DCodes :
     D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Converter.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Converter.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Converter.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : Converter.GM5
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Converter.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
@@ -234,7 +147,6 @@ Used DCodes :
     D28
     D29
     D30
-    D31
 *************************************************************
 
 *************************************************************
@@ -246,6 +158,95 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D13
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Converter.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Converter.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Converter.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Converter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Converter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D31
+    D32
+    D33
+    D34
+    D35
     D36
 *************************************************************
 
@@ -255,6 +256,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D39
+    D40
 *************************************************************
 

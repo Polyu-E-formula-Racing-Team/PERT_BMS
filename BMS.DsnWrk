@@ -3,6 +3,6 @@ Version=1.0
 [Project1]
 ProjectPath=24-12V_3A_TPS62933\24-12V_3A_TPS62933.PrjPcb
 [Project2]
-ProjectPath=BMS_ShareComponentLibrary\BMS_ShareComponentLibrary.LibPkg
-[Project3]
 ProjectPath=STM32F446DEV\STM32F446DEV.PrjPcb
+[Project3]
+ProjectPath=BMS_ShareComponentLibrary\BMS_ShareComponentLibrary.LibPkg

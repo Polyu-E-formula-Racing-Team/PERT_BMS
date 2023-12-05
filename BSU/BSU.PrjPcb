@@ -102,7 +102,7 @@ DocumentUniqueId=HBDBYHZS
 
 [Document4]
 DocumentPath=BSU_Comm.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -119,7 +119,7 @@ DocumentUniqueId=NAQGVDKQ
 
 [Document5]
 DocumentPath=BSU_Sensing.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -201,6 +201,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EOVUOVFI
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BSU\Design Rule Check - BSU.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

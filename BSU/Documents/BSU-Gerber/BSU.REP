@@ -2,8 +2,100 @@
 FileName = BSU.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Pad Master
-      File : BSU.GPB
+Generating : Bottom 3D Body
+      File : BSU.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : BSU.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : BSU.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D10
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : BSU.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D12
+    D115
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : BSU.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : BSU.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : BSU.GM2
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : BSU.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BSU.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Cu
 
@@ -18,25 +110,13 @@ Used DCodes :
     D40
     D44
     D45
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : BSU.GPT
+Generating : Top Paste
+      File : BSU.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Cu
 
@@ -75,50 +155,43 @@ Used DCodes :
     D46
     D47
     D48
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : BSU.GTO
+Generating : Bottom Solder
+      File : BSU.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Cu
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : BSU.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D15
+    D60
+    D61
+    D62
+    D63
+    D71
+    D75
+    D76
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
 *************************************************************
 
 *************************************************************
@@ -183,47 +256,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : BSU.GBS
+Generating : Bottom Overlay
+      File : BSU.GBO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Cu
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D60
-    D61
-    D62
-    D63
-    D71
-    D75
-    D76
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
+    D12
+    D15
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : BSU.GTP
+Generating : Top Overlay
+      File : BSU.GTO
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BSU.GPT
 
     Adding Layer      : Top Cu
 
@@ -262,13 +326,25 @@ Used DCodes :
     D46
     D47
     D48
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : BSU.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Pad Master
+      File : BSU.GPB
 
     Adding Layer      : Bottom Cu
 
@@ -283,71 +359,20 @@ Used DCodes :
     D40
     D44
     D45
-*************************************************************
-
-*************************************************************
-Generating : Board Shape
-      File : BSU.GM2
-
-    Adding Layer      : Board Shape
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : BSU.GM21
-
-    Adding Layer      : Bottom Courtyard
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : BSU.GM5
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D115
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 20
-      File : BSU.GM20
-
-    Adding Layer      : Mechanical 20
-
-
-Used DCodes :
-    D10
-    D115
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : BSU.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : BSU.GM23
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
 *************************************************************
 
 *************************************************************
@@ -448,31 +473,6 @@ Used DCodes :
     D112
     D113
     D114
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : BSU.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : BSU.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D10
-    D12
-    D115
-    D116
 *************************************************************
 
 *************************************************************

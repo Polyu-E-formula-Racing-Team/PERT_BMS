@@ -257,6 +257,38 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for BSU\Design Rule Check - BSU.html
 DItemRevisionGUID=
 
+[Parameter1]
+Name=PERTTitle
+Value=PERT BMS BSU Test Board
+
+[Parameter2]
+Name=PERT-Version
+Value=1.0
+
+[Parameter3]
+Name=PERT-SubTeam
+Value=EEE
+
+[Parameter4]
+Name=PERT-Revision
+Value=A
+
+[Parameter5]
+Name=PERT-Organization
+Value=PERT
+
+[Parameter6]
+Name=PERT-Module
+Value=PERT-BMS
+
+[Parameter7]
+Name=PERT-Generation
+Value=NA
+
+[Parameter8]
+Name=PERT-DrawBy
+Value=EEE Patrick
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

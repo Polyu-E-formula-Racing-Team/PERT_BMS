@@ -1,12 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=24-12V_3A_TPS62933\24-12V_3A_TPS62933.PrjPcb
-[Project2]
-ProjectPath=STM32F446DEV\STM32F446DEV.PrjPcb
-[Project3]
 ProjectPath=PERT_BMS_ShareComponentLibrary\BMS_ShareComponentLibrary.LibPkg
-[Project4]
+[Project2]
 ProjectPath=BSU\BSU.PrjPcb
-[Project5]
-ProjectPath=5vTo3v3LDO\5vTo3v3LDO.PrjPcb

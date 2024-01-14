@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+D:\EE\BMS\STM32F446DEV\Documents\STM32F446DEV-BOM.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/01/24
+Time:       16:30
+Revision:   15a52e431606d364f35b0c1a441d8ed0c2d4aa55
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C2","10u","TopLayer","0603_SMD_C","15.8750","5.3340","270","0603 SMD Capacitor"
+"C1","10u","TopLayer","0603_SMD_C","25.9080","5.3340","270","0603 SMD Capacitor"
+"B1","NCP1117IST33T3G","TopLayer","SOT230P700X180-4N","20.8280","3.8100","0","Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-223"
+"X2","ECS-327MV-CN-TR","TopLayer","1612_OSXO_32.768","11.9802","16.5616","315","Standard Clock Oscillators 32.768kHz LVCMOS 1.6-3.6V"
+"X1","ECS-1612MV-080-CN-TR","TopLayer","1612_OSXO_80","13.2080","15.1130","45","Standard Clock Oscillators 8MHz CMOS 1.6-3.6V"
+"J2","UJ2-MIBH-G-SMT-TR","TopLayer","USB_B_5P_SMD","27.6160","34.7305","180","USB Connectors USB jack, 2.0, micro B type, 5 pin, horizontal, gold flash, SMT, TR"
+"J3","Header 1x3","TopLayer","HDR_1X3_2.54_THD","38.5000","32.5400","90","Pin Header 2.54mm Pitch STR DIP, 1x3Pin, G/F, LCP, 8.08mm*2.54mm*3.18mm, Color-Black, Bag"
+"U1","STM32F446RET6","TopLayer","LQFP64-STM32F446","20.0000","20.0000","45","No Description Available"
+"J1","Header 1x5","TopLayer","HDR_1X5_2.54_SMD","14.9200","38.0000","180","Header 1x5"
+"J5","Header 1x5","TopLayer","HDR_2x11_2.54_THD","36.9700","14.3000","0","Header 2x11"
+"J4","Header 1x5","TopLayer","HDR_2x11_2.54_THD","3.2700","14.3000","0","Header 2x11"

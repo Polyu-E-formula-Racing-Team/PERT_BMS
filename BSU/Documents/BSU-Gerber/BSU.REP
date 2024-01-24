@@ -2,36 +2,74 @@
 FileName = BSU.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom 3D Body
-      File : BSU.GM23
+Generating : Keep-Out Layer
+      File : BSU.GKO
 
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : BSU.GM21
-
-    Adding Layer      : Bottom Courtyard
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D10
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 20
-      File : BSU.GM20
+Generating : Top Solder
+      File : BSU.GTS
 
-    Adding Layer      : Mechanical 20
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Cu
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D115
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
 *************************************************************
 
 *************************************************************
@@ -49,25 +87,36 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : BSU.GM13
+Generating : Bottom Pad Master
+      File : BSU.GPB
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Bottom Cu
 
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : BSU.GM5
-
-    Adding Layer      : Top Assembly
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D115
+    D29
+    D30
+    D31
+    D32
+    D40
+    D44
+    D45
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
 *************************************************************
 
 *************************************************************
@@ -82,13 +131,195 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : BSU.GM1
+Generating : Top Pad Master
+      File : BSU.GPT
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Cu
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Bottom Tenting
+      File : BSU.GM8
+
+    Adding Layer      : Bottom Tenting
+
+
+Used DCodes :
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Bottom Covering
+      File : BSU.GM10
+
+    Adding Layer      : Bottom Covering
+
+
+Used DCodes :
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Top Covering
+      File : BSU.GM9
+
+    Adding Layer      : Top Covering
+
+
+Used DCodes :
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Bottom Cu
+      File : BSU.GBL
+
+    Adding Layer      : Bottom Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D29
+    D30
+    D31
+    D32
+    D40
+    D44
+    D45
+    D97
+    D98
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BSU.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : BSU.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BSU.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : BSU.GM3
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D10
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 20
+      File : BSU.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D10
+    D115
 *************************************************************
 
 *************************************************************
@@ -110,6 +341,140 @@ Used DCodes :
     D40
     D44
     D45
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : BSU.G1
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D97
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D108
+    D110
+    D111
+    D112
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : BSU.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Cu
+      File : BSU.GTL
+
+    Adding Layer      : Top Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : BSU.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Layout
+      File : BSU.GM99
+
+    Adding Layer      : Layout
+
+
+Used DCodes :
+    D10
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Tenting
+      File : BSU.GM7
+
+    Adding Layer      : Top Tenting
+
+
+Used DCodes :
+    D114
 *************************************************************
 
 *************************************************************
@@ -195,284 +560,91 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : BSU.GTS
+Generating : GND
+      File : BSU.G2
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Cu
+    Adding Layer      : GND
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
+    D14
+    D16
+    D97
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D108
+    D110
+    D111
+    D112
+    D114
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : BSU.GBO
+Generating : Bottom Courtyard
+      File : BSU.GM21
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : BSU.GTO
-
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Courtyard
 
 
 Used DCodes :
     D10
-    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : BSU.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : BSU.GM4
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
     D12
-    D13
-    D14
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : BSU.GD1
+
+    Adding Drill Pair : Top Cu-Bottom Cu
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
     D15
-    D16
-    D17
+    D117
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : BSU.GPT
+Generating : Drill Guide
+      File : BSU.GG1
 
-    Adding Layer      : Top Cu
+    Adding Drill Pair : Top Cu-Bottom Cu
 
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Guide
 
 
 Used DCodes :
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : BSU.GPB
-
-    Adding Layer      : Bottom Cu
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D29
-    D30
-    D31
-    D32
-    D40
-    D44
-    D45
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-*************************************************************
-
-*************************************************************
-Generating : Bottom Cu
-      File : BSU.GBL
-
-    Adding Layer      : Bottom Cu
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D29
-    D30
-    D31
-    D32
-    D40
-    D44
-    D45
-    D97
-    D98
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-*************************************************************
-
-*************************************************************
-Generating : Top Cu
-      File : BSU.GTL
-
-    Adding Layer      : Top Cu
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
+    D15
 *************************************************************
 
 *************************************************************
@@ -481,6 +653,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D117
+    D118
 *************************************************************
 

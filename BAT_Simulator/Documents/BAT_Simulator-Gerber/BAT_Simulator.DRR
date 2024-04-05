@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BAT_Simulator.PcbDoc   5/4/2024  13:32:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BAT_Simulator.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             47        PTH        7.21inch (183.07mm)
+T2      33mil (0.831mm)                                           Round             32        PTH        3.80inch (96.52mm)
+T3      35mil (0.899mm)                                           Round             4         PTH        3.01inch (76.34mm)
+T4      39mil (1.001mm)                                           Round             2         PTH        1.73inch (44.00mm)
+T5      45mil (1.151mm)                                           Round             44        PTH        6.64inch (168.54mm)
+T6      47mil (1.199mm)                                           Round             32        PTH        3.96inch (100.60mm)
+T7      142mil (3.599mm)                                          Round             2         PTH        1.24inch (31.60mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              163
+
+Two holes at same point : 1
+-----------------------
+2165,1457
+
+Total Processing Time (hh:mm:ss) : 00:00:00

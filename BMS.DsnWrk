@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=PERT_BMS_ShareComponentLibrary\BMS_ShareComponentLibrary.LibPkg
 [Project2]
 ProjectPath=BSU\BSU.PrjPcb
+[Project3]
+ProjectPath=BAT_Simulator\BAT_Simulator.PrjPcb

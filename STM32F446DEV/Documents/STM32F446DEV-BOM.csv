@@ -1,16 +1,19 @@
 Altium Designer Pick and Place Locations
-D:\EE\BMS\STM32F446DEV\Documents\STM32F446DEV-BOM.csv
+D:\Users\User\Desktop\06E_CC_PERT\PERT_BMS\STM32F446DEV\Documents\STM32F446DEV-BOM.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       03/01/24
-Time:       16:30
-Revision:   15a52e431606d364f35b0c1a441d8ed0c2d4aa55
+Date:       25/01/24
+Time:       18:51
+Revision:   2aaf061a7609b74b40e42682c77accb60d9de205
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C5","*","TopLayer","0603_SMD_RC","28.9337","17.6307","225","SMD 0603 Capacitor"
+"C4","*","TopLayer","0603_SMD_RC","31.4737","16.7417","225","SMD 0603 Capacitor"
+"C3","100n","TopLayer","0603_SMD_RC","16.1513","12.9317","315","SMD 0603 Capacitor"
 "C2","10u","TopLayer","0603_SMD_C","15.8750","5.3340","270","0603 SMD Capacitor"
 "C1","10u","TopLayer","0603_SMD_C","25.9080","5.3340","270","0603 SMD Capacitor"
 "B1","NCP1117IST33T3G","TopLayer","SOT230P700X180-4N","20.8280","3.8100","0","Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-223"

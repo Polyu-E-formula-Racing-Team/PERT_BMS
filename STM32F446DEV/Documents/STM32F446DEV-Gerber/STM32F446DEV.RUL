@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\EE\BMS\STM32F446DEV\STM32F446DEV.PcbDoc
+DRC Rules Export File for PCB: D:\Users\User\Desktop\06E_CC_PERT\PERT_BMS\STM32F446DEV\STM32F446DEV.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.50
